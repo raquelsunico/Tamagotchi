@@ -56,9 +56,4 @@ public class Tamagotchi {
 		
 		}
 
-	public int matarDeHambre(int i) {
-		
-		return 0;
-	}
-	
 	}
